@@ -1,4 +1,5 @@
-# @awesome-tools/biome
+# Biome NX Plugin
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -13,7 +14,7 @@
 
 ## Table of Contents
 
-- [@awesome-tools/biome](#awesome-toolsbiome)
+- [Biome NX Plugin](#biome-nx-plugin)
     - [NX. plugin for Biome for multi-repo or mono-repo projects. Feel free to use this package.](#nx-plugin-for-biome-for-multi-repo-or-mono-repo-projects-feel-free-to-use-this-package)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
@@ -105,7 +106,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/basantech89"><img src="https://avatars.githubusercontent.com/u/30287271?v=4?s=100" width="100px;" alt="Basant Soni"/><br /><sub><b>Basant Soni</b></sub></a><br /><a href="https://github.com/basantech89/@awesome-tools/biome/issues?q=author%3Abasantech89" title="Bug reports">🐛</a> <a href="https://github.com/basantech89/@awesome-tools/biome/commits?author=basantech89" title="Code">💻</a> <a href="https://github.com/basantech89/@awesome-tools/biome/commits?author=basantech89" title="Documentation">📖</a> <a href="#infra-basantech89" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-basantech89" title="Maintenance">🚧</a> <a href="#plugin-basantech89" title="Plugin/utility libraries">🔌</a> <a href="#tool-basantech89" title="Tools">🔧</a> <a href="https://github.com/basantech89/@awesome-tools/biome/commits?author=basantech89" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/basantech89"><img src="https://avatars.githubusercontent.com/u/30287271?v=4?s=100" width="100px;" alt="Basant Soni"/><br /><sub><b>Basant Soni</b></sub></a><br /><a href="https://github.com/basantech89/biome-config/issues?q=author%3Abasantech89" title="Bug reports">🐛</a> <a href="https://github.com/basantech89/biome-config/commits?author=basantech89" title="Code">💻</a> <a href="https://github.com/basantech89/biome-config/commits?author=basantech89" title="Documentation">📖</a> <a href="#infra-basantech89" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-basantech89" title="Maintenance">🚧</a> <a href="#plugin-basantech89" title="Plugin/utility libraries">🔌</a> <a href="#tool-basantech89" title="Tools">🔧</a> <a href="https://github.com/basantech89/biome-config/commits?author=basantech89" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
